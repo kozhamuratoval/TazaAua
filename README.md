@@ -3,9 +3,9 @@
 *Taza Aua* means "clean air" in Kazakh. It is a SwiftUI app that shows the current air quality and a 48-hour forecast for any city in the world, starting with Almaty.
 
 <p float="left">
-  <img src="Screenshots/list.png" width="250" />
-  <img src="Screenshots/detail.png" width="250" />
-  <img src="Screenshots/search.png" width="250" />
+  <img src="Screenshots/list.PNG" width="250" />
+  <img src="Screenshots/detail.PNG" width="250" />
+  <img src="Screenshots/search.PNG" width="250" />
 </p>
 
 
